@@ -194,14 +194,15 @@ Healthcare-Patient-Analysis/
 │   └── healthcare.csv
 │
 ├── images/
-│   ├── visualization_1.png
-│   ├── visualization_2.png
-│   ├── visualization_3.png
+│   ├── Age_Distribution.png
+│   ├── avg_billing_amount.png
+│   ├── avg_length_of_stays.png
 │   └── ...
 │
 ├── notebooks/
 │   └── healthcare_analysis.ipynb
 │
+├── LICENSE
 ├── README.md
 ├── requirements.txt
 └── .gitignore
