@@ -16,7 +16,7 @@ The project follows a complete data analysis workflow, starting from data cleani
 The main goal is to transform raw healthcare data into meaningful insights that can support data-driven understanding of patient and hospital patterns.
 
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives 
 
 The main objectives of this project are to:
 
