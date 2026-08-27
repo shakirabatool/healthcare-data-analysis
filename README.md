@@ -1,6 +1,11 @@
 # Healthcare Patient Analysis & Insights
 
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/shakirabatool/healthcare-data-analysis/blob/main/LICENSE)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/shakirabatool/healthcare-data-analysis/blob/main/notebooks/healthcare_analysis.ipynb)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
+
+
 
 ## 📌 Project Overview
 
