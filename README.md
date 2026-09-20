@@ -215,7 +215,7 @@ Healthcare-Patient-Analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/shakirabatool/healthcare-data-analysis
 ```
 
 ### 2. Navigate to the Project Folder
